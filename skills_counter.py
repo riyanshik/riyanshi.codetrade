@@ -1,6 +1,8 @@
-skills = ["Python", "Git", "HTML", "Dancing", "Drawing", "java"]
+# This program counts skills
 
-for skill in skills:
-    print(skill)
+skills = ["Python", "Git", "HTML", "Communication", "Dancing"]
 
-print("Total skills:", len(skills))
+for index, skill in enumerate(skills, start=1):
+    print(f"{index}. {skill}")
+
+print(f"Total skills: {len(skills)}")
