@@ -1,2 +1,11 @@
-a = 5
-print(a)
+name = input("Enter your name: ")
+age = input("Enter your age: ")
+city = input("Enter your city: ")
+favorite_subject = input("Enter your favorite subject: ")
+target_role = input("Enter your target role: ")
+
+print(f"\n Hello! My name is {name}.")
+print(f"I am {age} years old.")
+print(f"I live in {city}.")
+print(f"My favorite subject is {favorite_subject}.")
+print(f"My target role is {target_role}.")
