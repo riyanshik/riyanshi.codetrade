@@ -1,0 +1,5 @@
+{
+    "model": "NeuralNetwork",
+    "learning_rate": 0.001,
+    "epochs": 20
+}
