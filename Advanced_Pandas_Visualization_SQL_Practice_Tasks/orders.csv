@@ -1,0 +1,9 @@
+order_id,customer_id,product_id,quantity,month
+1001,1,101,1,Jan
+1002,2,102,2,Jan
+1003,3,103,1,Feb
+1004,4,101,1,Feb
+1005,5,104,10,Mar
+1006,1,105,20,Mar
+1007,2,103,2,Apr
+1008,3,102,3,Apr
